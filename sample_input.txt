@@ -1,0 +1,64 @@
+num1 = 2.3
+num2 = 4
+v1 = [1 2.3 3.9]
+v2 = [4.1 5 6.31]
+m1 = [4  5 6; 7 8 9]
+m2 = [0 1 0.1; 1 0.89 0]
+
+## Arithmetric operation
+num1 + num2
+v1 + v2
+m1 + m2
+v1 * v2
+m1 / m2
+v1 ^ v2
+
+## Trigonoetric
+sin(num1)
+sin(v1)
+sin(m1)
+
+## Rouding
+round(num1)
+round(v1)
+round(m2)
+ceil(num1)
+ceil(v1)
+ceil(m2)
+floor(num1)
+floor(v1)
+floor(m2)
+
+## Exponents and Logarithm
+exp(v1) 
+log10(m1)
+
+## Size & Shapes
+length(v1)
+size(v1)
+ndims(v1)
+numel(v1)
+length(m1)
+size(m1)
+ndims(m1)
+numel(m1)
+
+## Transpose, Create & Combine array
+transpose(m1)
+horzat(m1,m2)
+verzat(m1,m2)
+zeros(3,4)
+ones(5,2)
+
+## Reshape
+reshape(m1, 3,2)
+
+## Generate Space Vector
+linspace(1,5,5)
+logspace(1,5,5(
+
+## Command
+clc
+ans
+datetime
+calendar
