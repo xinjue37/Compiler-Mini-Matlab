@@ -23,7 +23,7 @@
 |2|-|Subtraction|d-d|
 |3|*|Multiplication|d*d|
 |4|/|Division|d/d|
-|5|^|Power|d ^ n|
+|5|^|Power|d^n|
 
 #### <br><b>ii ) Modulo -- 2 arguments </b>
 |No|Function|Explanation|Example|
