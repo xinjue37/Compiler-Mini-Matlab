@@ -62,7 +62,7 @@
 |3|ndims()|Number of dimensions|ndims(b)<br>ndims(c)|
 |4|numel()|Number of elements|numel(b)<br>numel(c)|
 
-#### <br><b>vii ) Reshape, Create & Combine Arrays -- 1,2 arguments </b>
+#### <br><b>vii ) Transpose, Create & Combine Arrays -- 1,2 arguments </b>
 |No|Function|Explanation|Example|
 |:-:|:--|:--|:--|
 |1|transpose()|Transpose vector or matrix|transpose(b)<br>transpose(c)|
