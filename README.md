@@ -89,5 +89,5 @@
 |1|clc|Clear command window|-|
 |2|ans|Most recent answer|-|
 |3|datetime|Current date and time|-|
-|4|calendar|Current for current month|-|
+|4|calendar|Current month|-|
 
