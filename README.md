@@ -8,7 +8,7 @@
 |:-:|:--|:-:|:--|
 |1|sin30|Undeclared Identifier !|sin(30)|
 |2|tranpose([1 2 3])|The identifier is not a function|transpose([1 2 3])|
-|3|mod([1 2; 3 4])|The arguments number are too few, 1. Use 2 arguments.|mod([1 2; 3 4])|
+|3|mod([1 2; 3 4])|The arguments number are too few, 1. Use 2 arguments.|mod([1 2; 3 4], 3)|
 
 ## Operation Involved
 &emsp;|-> Let <b> a </b> be constant.<br>
